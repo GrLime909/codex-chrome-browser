@@ -1,6 +1,6 @@
 # Codex Chrome / Browser Plugin Fix
 
-> [??](README.zh-CN.md) | English
+> [中文](README.zh-CN.md) | English
 
 ## Problem
 
