@@ -1,6 +1,6 @@
 # Codex Chrome / Browser Plugin Fix
 
-> [ÖÐÎÄ](README.zh-CN.md) | English
+> [??](README.zh-CN.md) | English
 
 ## Problem
 
@@ -86,14 +86,5 @@ source = "\\\\?\\C:\\Users\\<Username>\\.codex\\.tmp\\bundled-marketplaces\\open
 
 ## Notes
 
-- The `\\\\?\\` prefix is the Windows UNC long-path prefix. Do not omit it.
 - Ensure the copied `openai-bundled` contains both `.agents` and `plugins`.
 - If plugins still do not appear, double-check the path or re-copy the files.
-
----
-
-## Environment
-
-- **OS**: Windows 10 / Windows 11
-- **Codex**: Desktop (with plugin marketplace)
-- **Plugins**: Browser, Chrome
